@@ -1,5 +1,5 @@
 # Chartlooly
-An easy-to-use charting package.
+An easy-to-use charting package for Svelte. 
 
 ## `dataType`
 ```js
